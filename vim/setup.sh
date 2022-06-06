@@ -3,7 +3,7 @@
 mkdir -p ~/.vim
 mkdir -p ~/.vim/autoload
 
-cat vimrc.vim > ~/.vim
+cat vimrc.vim > ~/.vimrc
 cp plug.vim ~/.vim/autoload/
 cp myConfig.vim ~/.vim/
 cp plugConfig.vim ~/.vim/
