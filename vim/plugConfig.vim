@@ -32,6 +32,9 @@ Plug 'vim-airline/vim-airline'
 " Plug 'vim-scripts/AutoComplPop'
 " Plug 'ycm-core/YouCompleteMe'
 
+" Ctag Settings
+Plug 'craigemery/vim-autotag'
+
 " Initialize plugin system
 call plug#end()
 
